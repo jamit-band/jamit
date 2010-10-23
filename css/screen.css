@@ -46,7 +46,7 @@ header {
     right: 20px;
 }
     .contact_info a {
-        background: transparent url(/img/mail-message-new.png) no-repeat scroll 0 50%;
+        background: transparent url(../img/mail-message-new.png) no-repeat scroll 0 50%;
         display: block;
         width: 0;
         height: 32px;
