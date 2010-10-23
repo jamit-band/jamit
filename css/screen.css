@@ -23,6 +23,7 @@ p { margin: 0.5em 0; }
     margin: -300px 0 0 -400px;
     background: #eee;
     border-radius: 30px;
+    -moz-border-radius: 30px;
     text-align: left;
 }
 
@@ -79,7 +80,7 @@ header {
             border: none;
         }
 
-.info section {
+.info .wrapper {
     height: 95%;
     margin: 1em;
     font-size: 14px;
