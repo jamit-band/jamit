@@ -1,0 +1,21 @@
+p { margin: 0.5em 0; }
+a { color: #000; text-decoration: underline; }
+
+.container { text-align: left; }
+
+header {
+    margin: 0 auto;
+}
+    header h1 {
+        color: #321;
+        font-family: Arial, sans-serif;
+        font-size: 40px;
+        text-align: center;
+    }
+footer { display: none; }
+
+.links { display: none; }
+.info section { margin: 1em; }
+.info dl { margin: 0.5em 0 0.5em 1em; }
+    .info dl dt { display: inline-block; width: 25%; }
+    .info dl dd { display: inline-block; width: 70%; }
