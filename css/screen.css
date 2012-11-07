@@ -108,10 +108,17 @@ footer {
     padding: 1em;
     -webkit-column-count: 2;
        -moz-column-count: 2;
+        -ms-column-count: 2;
+         -o-column-count: 2;
             column-count: 2;
 }
 .album {
     position: relative;
+    -webkit-column-break-inside: avoid;
+       -moz-column-break-inside: avoid;
+        -ms-column-break-inside: avoid;
+         -o-column-break-inside: avoid;
+            column-break-inside: avoid;
 }
 .album-title {
     font: bold 150% sans-serif;
