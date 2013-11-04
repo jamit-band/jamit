@@ -106,6 +106,7 @@ footer {
     }
 
 .albums {
+    margin: 1em auto;
     padding: 1em;
     -webkit-column-count: 2;
        -moz-column-count: 2;
@@ -123,6 +124,9 @@ footer {
 }
 .album-title {
     font: bold 150% sans-serif;
+}
+.album-art {
+  margin: 0.5em auto;
 }
 .tracklist {
     margin: 1em 0 1em 2em;
