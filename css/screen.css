@@ -134,9 +134,7 @@ footer {
 }
 .download {
     list-style: none;
-}
-.download li {
-    display: inline-block;
+    margin: 1em 0 1em 1em;
 }
 .album.unreleased .album-title,
 .album.unreleased .tracklist,
